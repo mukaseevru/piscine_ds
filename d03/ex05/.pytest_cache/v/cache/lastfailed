@@ -1,7 +1,0 @@
-{
-  "financial_test.py::test1": true,
-  "financial_test.py::test2": true,
-  "financial_test.py::test7": true,
-  "financial_test.py::test_invalid_row": true,
-  "financial_test.py::test_invalid_ticker": true
-}
